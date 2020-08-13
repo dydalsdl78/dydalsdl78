@@ -1,7 +1,7 @@
 ### Hi there 👋👍👍
 
 ---
-[![dydalsdl78's github stats](https://github-readme-stats.vercel.app/api?username=dydalsdl78)]
+![dydalsdl78's github stats](https://github-readme-stats.vercel.app/api?username=dydalsdl78)
 
 
 <!--
